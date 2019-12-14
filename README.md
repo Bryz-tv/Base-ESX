@@ -14,3 +14,5 @@
 8. Double cliquez sur start.bat puis sur ENTER, lancer votre jeu (FiveM), allez dans direct connect est entrée `localhost:30120` si le serveur est sur votre PC, sinon `IPSERVER:30130`.
 
 [Mon Discord](https://discord.gg/rdwRFGZ)
+[Discord ESX](https://discord.gg/rdwRFGZ)
+[Discord FiveM France](https://discord.gg/duVjTAz)
