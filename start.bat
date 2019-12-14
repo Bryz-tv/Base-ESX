@@ -1,5 +1,5 @@
 ﻿@echo OFF
-RMDIR /s /q "C:\Users\Nelson\Desktop\futuraRPGitHub\cache\files"
+RMDIR /s /q "CHEMIN_ACCES\cache\files"
 echo ----------------------------------
 echo -
 echo Pour relancer votre serveur, faites CTRL + C puis "runserver"
@@ -10,5 +10,5 @@ echo Appuyez sur une TOUCHE pour lancer votre serveur
 echo -
 pause > nul
 CLS
-cd C:\Users\Nelson\Desktop\futuraRPGitHub
+cd CHEMIN_ACCES
 cmd /k run.cmd +exec server.cfg
