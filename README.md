@@ -11,7 +11,7 @@
    - Modifier à la ligne 117 et 118 le `steam_webApiKey` et `sv_licenseKey` (suivant les liens)
 6. Importer la base de données `bdd.sql` dans votre base de données
 7. Modifier le fichier `start.bat` dans le dossier ESX-base est remplacé CHEMIN_ACCES par le chemin d'accès de votre dossier ESX-BASE (ligne 2 et 13)
-8. Double cliquez sur start.bat puis sur ENTER, lancer votre jeu (FiveM), allez dans direct connect est entrée `localhost:30120` si le serveur est sur votre PC, sinon `IPSERVER:30130`.
+8. Double cliquez sur start.bat puis sur ENTER, lancer votre jeu (FiveM), allez dans direct connect est entrée `localhost:30120` si le serveur est sur votre PC, sinon `IPSERVER:30120`.
 
  - [Mon Discord](https://discord.gg/rdwRFGZ)
  - [Discord ESX](https://discord.gg/9TCM7rk)
